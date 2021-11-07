@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "MakkersServer.aternos.me",
+ "port": "37256",
+ "name": "Creeper",
  "auto-night-skip": "false",
- "token": "Your_discord_bot_token_here",
- "channelid": "Your_discord_server_channel_id_here",
- "loginmsg": "Your_Login_message_here"
+ "token": "OTA2OTU0Mjg4MzM1NTUyNTgz.YYgJAA.LlmbpOK_wLNGALgkrMscxnwlyhc",
+ "channelid": "906954735939092491",
+ "loginmsg": "Welkom in de server %player%"
 }
